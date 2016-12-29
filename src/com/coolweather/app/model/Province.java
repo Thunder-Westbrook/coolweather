@@ -1,5 +1,11 @@
 package com.coolweather.app.model;
 
+/**
+ * province的实体类，方便对province的操作
+ * @author 林调
+ * @time 2016.12.28
+ */
+
 public class Province {
      private int id;
      private String provinceName;
